@@ -1,1 +1,5 @@
 Prvi tekst..
+
+Ovo je novi redak u prvom fileu.
+
+Danas je srijeda i ja se osjeæam nepobjedivo.
