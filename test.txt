@@ -3,3 +3,5 @@ Prvi tekst..
 Ovo je novi redak u prvom fileu.
 
 Danas je srijeda i ja se osjeæam nepobjedivo.
+
+Danas je ponedjeljak i osjeæam se ko govno. yaay.
