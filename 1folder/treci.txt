@@ -3,3 +3,5 @@ Ovo je zadnje dodan file u projektu.
 tralalalala.
 
 Dodana treca recenica u trecem fileu.
+
+Neki novi tekst
